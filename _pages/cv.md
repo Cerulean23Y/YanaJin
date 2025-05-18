@@ -44,18 +44,14 @@ Teaching
 Advising
 ======
 **PhD students**
-* Tianyu Xia, Hengxing Yin, Tingwei Gao
+ * Tianyu Xia, Hengxing Yin, Tingwei Gao
 
 **Master students with initial placement or internship**
-* Zewei Fu, Zixiao Li, Mengyu Liu (U Maryland PhD), Yi Yang (Xiaomi), Yuhan Hu (Oregon State PhD, co-
-advising), Xuzhou Qin (co-advising)
+* Zewei Fu, Zixiao Li, Mengyu Liu (U Maryland PhD), Yi Yang (Xiaomi), Yuhan Hu (Oregon State PhD, co-advising), Xuzhou Qin (co-advising)
 
 **Undergraduates with initial placement or internship**
 * Peking University: Haoyang Huang, Yetong Li (PKU GSM), Cheng Fang (THU Econ PhD);
-* William & Mary: Qianyin Lu (Duke), Naixin Kang (Cornerstone Research), Grace Williams (House Committee
-on Natural Resources), James Li (Morgan Stanley), Xiaoshu Lin (Yale), Qingyu Tao (JHU SAIS), Bingling Wang
-(U Penn), Rong Qin (JHU SAIS), Wenzhi Pan (U Penn), Emeline Walker, Xuejia Tong, Daniel Morgan, Tara
-Clark, Dongyang Wang;
+* William & Mary: Qianyin Lu (Duke), Naixin Kang (Cornerstone Research), Grace Williams (House Committee on Natural Resources), James Li (Morgan Stanley), Xiaoshu Lin (Yale), Qingyu Tao (JHU SAIS), Bingling Wang (U Penn), Rong Qin (JHU SAIS), Wenzhi Pan (U Penn), Emeline Walker, Xuejia Tong, Daniel Morgan, Tara Clark, Dongyang Wang;
 * Wuhan University: Yubei Li (Ohio State PhD), Jingtong Lin (ByteDance)
 
 Selected Grants
