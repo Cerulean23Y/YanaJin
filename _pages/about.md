@@ -10,14 +10,14 @@ redirect_from:
 * College of Environmental Sciences and Engineering, Peking University
 
 
-//  Yana JIN is an **Assistant Professor in the College of Environmental Sciences and Engineering at Peking University**. 
-//  She specializes in **environmental economics with an emphasis on non-market valuation, energy and environmental policies**. 
-<br/>//  Before starting at Peking University, Yana JIN was a High Meadows Postdoctoral Fellow at Environmental Defense Fund and a Mellon Postdoctoral Fellow at William & Mary. Her Ph.D. in Environmental Economics, B.A. in Economics, and B.S. in Biology are all from Peking University.
+&emsp;Yana JIN is an **Assistant Professor in the College of Environmental Sciences and Engineering at Peking University**. 
+&emsp;She specializes in **environmental economics with an emphasis on non-market valuation, energy and environmental policies**. 
+<br/>&emsp;Before starting at Peking University, Yana JIN was a High Meadows Postdoctoral Fellow at Environmental Defense Fund and a Mellon Postdoctoral Fellow at William & Mary. Her Ph.D. in Environmental Economics, B.A. in Economics, and B.S. in Biology are all from Peking University.
 
-//  [Email | jin.yana@pku.edu.cn](jin.yana@pku.edu.cn)
+&emsp;[Email | jin.yana@pku.edu.cn](jin.yana@pku.edu.cn)
 
-//  [Google Scholar](bit.ly/32Oh18g)
+&emsp;[Google Scholar](bit.ly/32Oh18g)
 
-//  [Faculty Personal Webpage](http://scholar.pku.edu.cn/yjin/home)
+&emsp;[Faculty Personal Webpage](http://scholar.pku.edu.cn/yjin/home)
 
 #[CV](files/CV_Yana_Jin_2page(1).pdf)
