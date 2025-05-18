@@ -20,4 +20,4 @@ redirect_from:
 
 &emsp;[Faculty Personal Webpage](http://scholar.pku.edu.cn/yjin/home)
 
-#[CV](files/CV_Yana_Jin_2page(1).pdf)
+
