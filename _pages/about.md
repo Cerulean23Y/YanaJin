@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yana Jin"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,10 +17,10 @@ Before starting at Peking University, Yana JIN was a High Meadows Postdoctoral F
 
 *College of Environmental Sciences and Engineering, Peking University* 
 
-[Email] (mailto:jin.yana@pku.edu.cn)
+[Email] jin.yana@pku.edu.cn
 
 [Google Scholar](bit.ly/32Oh18g)
 
 [Faculty Personal Webpage](http://scholar.pku.edu.cn/yjin/home)
 
-[Yana's Curriculum Vitae](../files/CV_Yana_Jin_2page(1).pdf).
+[Yana's CV](files/CV_Yana_Jin_2page(1).pdf)
