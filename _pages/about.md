@@ -9,6 +9,8 @@ redirect_from:
 * Department of Environmental Management  
 * College of Environmental Sciences and Engineering, Peking University
 
+---
+
 
 &emsp;Yana JIN is an **Assistant Professor in the <br>&emsp;College of Environmental Sciences and Engineering <br>&emsp;at Peking University**. 
 <br/>&emsp;She specializes in <br>&emsp;**environmental economics with an emphasis on non-market valuation, <br>&emsp;energy and environmental policies**. 
