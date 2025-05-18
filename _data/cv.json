@@ -9,8 +9,8 @@
       "address": "",
       "postalCode": "",
       "city": "Beijing",
-      "countryCode": "CHINA",
-      "region": ""
+      "countryCode": "CHINA"
+      #"region": ""
     }
   }
 }
