@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yana Jin"
+title: "Yana JIN"
 author_profile: true
 redirect_from: 
   - /about/
