@@ -2,9 +2,9 @@
   "basics": {
     "name": "Yana JIN",
     "email": "jin.yana@pku.edu.cn",
-    "phone": "",
+    #"phone": "",
     "website": "http://scholar.pku.edu.cn/yjin/bio",
-    "summary": "Assistant Professor of Environmental Economics and Policy at Peking University",
+    #"summary": "Assistant Professor of Environmental Economics and Policy at Peking University",
     "location": {
       "address": "",
       "postalCode": "",
